@@ -17,4 +17,4 @@ Materials needed:
     -1000ohms(R_PHOTO)
     -10000ohms(R_BUTTON)
 print this 3D box:
-https://www.thingiverse.com/
+https://www.thingiverse.com/thing:4339162
